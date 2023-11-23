@@ -70,4 +70,7 @@ class Atm:
         
 obj=Atm()
 obj.menu()
+
+
+print("helloo prasad")
     
